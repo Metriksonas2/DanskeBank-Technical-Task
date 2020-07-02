@@ -1,0 +1,6 @@
+C:\Users\erika\Desktop\task\bin\Debug\task.exe.config
+C:\Users\erika\Desktop\task\bin\Debug\task.exe
+C:\Users\erika\Desktop\task\bin\Debug\task.pdb
+C:\Users\erika\Desktop\task\obj\Debug\task.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\task\obj\Debug\task.exe
+C:\Users\erika\Desktop\task\obj\Debug\task.pdb
